@@ -7,7 +7,7 @@ They thereby also provide some examples of how to use the respective classes.
 
 The python code should run under version 2 and 3 if the following additional packages are installed:
 
-To run the code, the following python packages might be nes
+To run the code, the following python packages might be necessary. 
 
 Package     | Usage
 ------------|-------------------------------------------
@@ -20,4 +20,5 @@ nose        | For parallel testing
 simanneal   | Simulated annealing algorithm published at https://github.com/perrygeo/simanneal
 py-utils    | A collection of python functions published at https://github.com/david-zwicker/py-utils
 
+The first packages should be available via pip, while the last two can be directly downloaded from github.
 Some of these package might only be required for a small subset of the code.
