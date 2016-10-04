@@ -19,7 +19,8 @@ coverage    | For measuring test coverage
 cma         | For optimizations using CMA-ES
 numba       | For creating compiled code for faster processing
 nose        | For parallel testing
-simanneal   | Simulated annealing algorithm published on github
+simanneal   | Simulated annealing algorithm published at https://github.com/perrygeo/simanneal
+py-utils	| A collection of python functions published at https://github.com/david-zwicker/py-utils
 
 
 The classes in the project are organized as follows:
