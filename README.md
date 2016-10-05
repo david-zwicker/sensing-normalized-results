@@ -1,6 +1,6 @@
 # sensing-normalized-results
 
-This repository contains code and scripts to recreate the results of the manuscript "Normalized Neural Representations of Natural Odors".
+This repository contains code and scripts to recreate the results of the manuscript "Normalized Neural Representations of Complex Odors".
 The folder `src` contains several python packages that contain functions and classes for studying normalized and unnormalized odor representations.
 The folder `figures` contains scripts that use these functions and classes to recreate the figures of the publication.
 They thereby also provide some examples of how to use the respective classes.
